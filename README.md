@@ -1,7 +1,7 @@
 # Interesting-DL-Papers
 List of DL papers on Interpretability, Learning from Limited Data and Information Bottleneck
 
-## Visual Interpretation
+## Visual Interpretation & Adversarial Attacks
 [1] [Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer](https://arxiv.org/pdf/1612.03928.pdf)
 
 [2] [Interpretable and Pedagogical Examples](https://arxiv.org/pdf/1711.00694.pdf)
@@ -12,6 +12,7 @@ List of DL papers on Interpretability, Learning from Limited Data and Informatio
 
 [5] [Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks](https://arxiv.org/pdf/1610.02391.pdf)
 
+[6] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420.pdf)
 
 ## Information Bottleneck
 [1] [Compressing Neural Networks using the Variational Information Bottleneck](https://arxiv.org/pdf/1802.10399.pdf)
