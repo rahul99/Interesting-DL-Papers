@@ -26,6 +26,7 @@ List of DL papers on Interpretability, Learning from Limited Data and Informatio
 
 [3] [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks](https://arxiv.org/abs/1711.06788)
 
+[4] [A recurrent neural network without chaos](https://arxiv.org/abs/1612.06212)
 ## Limited Data
 
 
