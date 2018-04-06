@@ -19,9 +19,13 @@ List of DL papers on Interpretability, Learning from Limited Data and Informatio
 
 [2] [One Big Net For Everything](https://arxiv.org/pdf/1802.08864.pdf)
 
+## Model Level Changes
+[1] [Minimal gated unit for recurrent neural networks](https://link.springer.com/article/10.1007/s11633-016-1006-2)
+
+[2] [Gated Feedback Recurrent Neural Networks](http://proceedings.mlr.press/v37/chung15.pdf)
+
+[3] [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks](https://arxiv.org/abs/1711.06788)
+
 ## Limited Data
-
-
-
 
 
